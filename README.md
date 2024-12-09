@@ -1,8 +1,9 @@
-# Black-Scholes Option Pricing Model(https://binomialoptionsalgorithm.streamlit.app/)
+# Black-Scholes Option Pricing Model
 
 This repository implements the **Black-Scholes Option Pricing Model** to compute the theoretical prices of European call and put options. The Black-Scholes model uses a continuous-time framework for pricing options and is widely used in finance for its analytical formula.
 
 ## 🚀 Features
+- https://black-scholes-algorithm.streamlit.app/
 - **Option Pricing**: Computes prices for European call and put options.
 - **Greeks Calculation**: Calculates option sensitivities, including Delta and Gamma.
 - **Interactive Heatmaps**: Explore how option prices change with spot prices and volatility using Streamlit.
