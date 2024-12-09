@@ -1,4 +1,4 @@
-# Black-Scholes Option Pricing Model
+# Black-Scholes Option Pricing Model(https://binomialoptionsalgorithm.streamlit.app/)
 
 This repository implements the **Black-Scholes Option Pricing Model** to compute the theoretical prices of European call and put options. The Black-Scholes model uses a continuous-time framework for pricing options and is widely used in finance for its analytical formula.
 
